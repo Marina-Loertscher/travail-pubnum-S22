@@ -32,7 +32,7 @@ html, body, ul, li {
 .point {
     min-width: 20px;
     height: 20px;
-    background-color: #be9fe1;
+    background-color: #f1f1f6;
     border-radius: 100%;
     z-index: 2;
     border: 3px #333333 solid;
@@ -102,7 +102,7 @@ html, body, ul, li {
 }
 
 .timeline ul li .date h4 {
-    background-color: #e1ccec;
+    background-color: #fffab7;
     width: 100px;
     text-align: center;
     padding: 5px 10px;
@@ -111,7 +111,7 @@ html, body, ul, li {
 
 .timeline ul li .content h3 {
     padding: 10px 20px;
-    background-color: #be9fe1;
+    background-color: #fffd83;
     margin-bottom: 0;
     text-align: center;
     border-top-left-radius: 10px;
@@ -120,7 +120,7 @@ html, body, ul, li {
 
 .timeline ul li .content p {
     padding: 10px 20px;
-    background-color: #e1d9ec;
+    background-color: #fffdd3;
     margin-top: 0;
     text-align: center;
     border-bottom-left-radius: 10px;
