@@ -9,7 +9,7 @@ html, body, ul, li {
 .container {
     padding: 20px 0;
 }
-
+/* titre */
 .container h1 {
     text-align: center;
 }
@@ -100,7 +100,7 @@ html, body, ul, li {
     padding: 0 20px;
     font-weight: normal;
 }
-
+/* bloc avec les dates */
 .timeline ul li .date h4 {
     background-color: #fffab7;
     width: 100px;
@@ -117,7 +117,7 @@ html, body, ul, li {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
-
+/* blocs de texte*/
 .timeline ul li .content p {
     padding: 10px 20px;
     background-color: #fffdd3;
@@ -125,6 +125,7 @@ html, body, ul, li {
     text-align: center;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    text-align: left;
 }
 
 .timeline ul li:nth-child(even) {
