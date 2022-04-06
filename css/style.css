@@ -103,7 +103,7 @@ html, body, ul, li {
 /* bloc avec les dates */
 .timeline ul li .date h4 {
     background-color: #fffab7;
-    width: 100px;
+    width: 200px;
     text-align: center;
     padding: 5px 10px;
     border-radius: 10px;
