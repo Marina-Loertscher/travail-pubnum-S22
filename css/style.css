@@ -13,7 +13,10 @@ html, body, ul, li {
 .container h1 {
     text-align: center;
 }
-
+/* sous titre */
+.container h2 {
+    text-align: center;
+}
 .timeline {
     position: relative;
     margin: 0 auto;
