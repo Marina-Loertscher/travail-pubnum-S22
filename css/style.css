@@ -112,7 +112,7 @@ html, body, ul, li {
     border-radius: 10px;
     image-orientation: from-image;
     image-rendering: auto;
-    .left { float:left; margin:0 10px 0 20px; }
+
 }
 /* bloc chapitre */
 .timeline ul li .content h3 {
