@@ -110,6 +110,9 @@ html, body, ul, li {
     text-align: center;
     padding: 5px 10px;
     border-radius: 10px;
+    image-orientation: from-image;
+    image-rendering: auto;
+    image-resolution: 100px;
 }
 /* bloc chapitre */
 .timeline ul li .content h3 {
@@ -141,6 +144,7 @@ html, body, ul, li {
 
 .timeline ul li:nth-child(even) .date h4 {
     float: right
+    
 }
 
 .timeline::before {
