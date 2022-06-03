@@ -22,6 +22,6 @@ Différentes améliorations seraient possibles pour rendre le travail plus compl
 
 ## Crédits
 ### Un garçon comme vous et moi
-Jablonka, I. (2021). <i>Un garçon comme vous et moi<i>. Editions du Seuil. 
+Jablonka, I. (2021). <i>Un garçon comme vous et moi</i>. Editions du Seuil. 
 ### Plugins utilisés
 Timeline: [CSS Script] https://www.cssscript.com/responsive-vertical-timeline/ 
