@@ -22,4 +22,4 @@ Différentes améliorations seraient possibles pour rendre le travail plus compl
 
 ## Crédits
 ### Plugins utilisés
-* Timeline: CSS Script https://www.cssscript.com/responsive-vertical-timeline/ 
+Timeline: [CSS Script] https://www.cssscript.com/responsive-vertical-timeline/ 
