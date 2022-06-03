@@ -13,6 +13,8 @@ Le code se trouve dans index.html
 
 ## Aperçu des visualisations
 Timeline: 
+![alt text](./rendu/printscreen_timeline_1.jpg)
+![alt text](./rendu/printscreen_timeline_2.jpg)
 
 ## Améliorations et fonctionnalités à implémenter
 Différentes améliorations seraient possibles pour rendre le travail plus complet. Les principales améliorations à apporter seraient les suivantes: 
