@@ -17,8 +17,8 @@ Timeline:
 ## Améliorations et fonctionnalités à implémenter
 Différentes améliorations seraient possibles pour rendre le travail plus complet. Les principales améliorations à apporter seraient les suivantes: 
 1. Insertion du texte de l’oeuvre directement dans la timeline, afin d’avoir toutes les informations regroupées à un endroit. 
-2. Insertions des images de meilleure qualité que des scans du livre.
-3. 
+2. Insertion des images de meilleure qualité et non pas des scans du livre.
+3. Trouver des moyens de fluidifier la circulation entre les différents chapitres. 
 
 ## Crédits
 ### Un garçon comme vous et moi
